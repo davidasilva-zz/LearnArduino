@@ -1,1 +1,1 @@
-Este eh um exemplo.
+estudar funcoes
